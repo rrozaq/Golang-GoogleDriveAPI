@@ -3,7 +3,7 @@ this is simple implementation for API google drive using golang
 
 ## How to use
 - create service google drive api, you can read the docs for information https://developers.google.com/drive/api/quickstart/go?hl=id
-- Download your credential file and rename it to 'credentials.json'. put it in the root folder of this project
+- Download your credential file from google service and rename it to 'credentials.json'. put it in the root folder of this project
 
 #### Run project
 ```bash
